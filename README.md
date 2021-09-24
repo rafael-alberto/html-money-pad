@@ -1,4 +1,4 @@
 html-money-pad
 ==============
 
-Simple HTML + JS "App" for registerin your expenses
+Simple HTML + JS "App" to keep record of your expenses
