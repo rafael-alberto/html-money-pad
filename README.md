@@ -1,4 +1,4 @@
 html-money-pad
 ==============
 
-HTML offline site as a Money Notepad
+Simple HTML + JS "App" for registerin your expenses
